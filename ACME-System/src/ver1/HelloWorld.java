@@ -16,5 +16,4 @@ public class HelloWorld {
 		System.out.println(s + "\n");
 		System.out.println(s + ". what for?");
 	}
-
 }
